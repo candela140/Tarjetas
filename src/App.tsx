@@ -263,12 +263,12 @@ Nombre: ${formData.name}`;
 
   return (
     <div className="min-h-screen bg-[#f5efe6] flex items-center justify-center p-4"
-         style={{ backgroundImage: "url('/src/assets/images/descarga9.jpg')", backgroundSize: 'cover', backgroundPosition: 'center' }}>
+         style={{ backgroundImage: "url('/images/descarga9.jpg')", backgroundSize: 'cover', backgroundPosition: 'center' }}>
       
       <div 
         className="relative max-w-md w-full min-h-[500px] p-4 sm:p-10 shadow-[0_10px_30px_rgba(0,0,0,0.05)] bg-[#fcf9f2] flex flex-col justify-center"
         style={{
-          backgroundImage: "url('/src/assets/images/refined_ivory_stationery_texture_1790701088833.jpg')",
+          backgroundImage: "url('/images/refined_ivory_stationery_texture_1790701088833.jpg')",
           backgroundSize: "cover",
         }}
       >
